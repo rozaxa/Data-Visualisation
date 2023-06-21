@@ -1,0 +1,123 @@
+Countries,Count,iso_alpha
+United States,3690,USA
+South Africa,62,ZAF
+India,1046,IND
+Ghana,5,GHA
+Burkina Faso,1,BFA
+United Kingdom,806,GBR
+Germany,226,DEU
+Ethiopia,1,ETH
+Czech Republic,22,Unknown code
+Mexico,169,MEX
+Turkey,113,TUR
+Australia,160,AUS
+France,393,FRA
+Finland,11,FIN
+China,162,CHN
+Canada,445,CAN
+Japan,318,JPN
+Nigeria,103,NGA
+Spain,232,ESP
+Belgium,90,BEL
+South Korea,231,Unknown code
+Singapore,41,SGP
+Italy,100,ITA
+Romania,14,ROU
+Argentina,91,ARG
+Venezuela,4,Unknown code
+Hong Kong,105,HKG
+Russia,27,Unknown code
+Ireland,46,IRL
+Nepal,2,NPL
+New Zealand,33,NZL
+Brazil,97,BRA
+Greece,11,GRC
+Jordan,9,JOR
+Colombia,52,COL
+Switzerland,19,CHE
+Israel,30,ISR
+Taiwan,89,Unknown code
+Bulgaria,10,BGR
+Algeria,3,DZA
+Poland,41,POL
+Saudi Arabia,13,SAU
+Thailand,70,THA
+Indonesia,90,IDN
+Egypt,117,EGY
+Denmark,48,DNK
+Kuwait,8,KWT
+Netherlands,50,NLD
+Malaysia,26,MYS
+Vietnam,7,Unknown code
+Hungary,11,HUN
+Sweden,42,SWE
+Lebanon,31,LBN
+Syria,3,Unknown code
+Philippines,83,PHL
+Iceland,11,ISL
+United Arab Emirates,37,ARE
+Norway,30,NOR
+Qatar,10,QAT
+Mauritius,2,MUS
+Austria,12,AUT
+Cameroon,1,CMR
+Palestine,1,Unknown code
+Uruguay,14,URY
+Kenya,6,KEN
+Chile,29,CHL
+Luxembourg,12,LUX
+Cambodia,6,KHM
+Bangladesh,4,BGD
+Portugal,6,PRT
+Cayman Islands,2,CYM
+Senegal,3,SEN
+Serbia,7,SRB
+Malta,3,MLT
+Namibia,2,NAM
+Angola,1,AGO
+Peru,10,PER
+Mozambique,1,MOZ
+Belarus,1,BLR
+Zimbabwe,3,ZWE
+Puerto Rico,1,PRI
+Pakistan,24,PAK
+Cyprus,1,CYP
+Guatemala,2,GTM
+Iraq,2,IRQ
+Malawi,1,MWI
+Paraguay,1,PRY
+Croatia,4,HRV
+Iran,4,Unknown code
+West Germany,5,Unknown code
+Albania,1,ALB
+Georgia,2,GEO
+Soviet Union,3,Unknown code
+Morocco,6,MAR
+Slovakia,1,SVK
+Ukraine,3,UKR
+Bermuda,1,BMU
+Ecuador,1,ECU
+Armenia,1,ARM
+Mongolia,1,MNG
+Bahamas,1,BHS
+Sri Lanka,1,LKA
+Latvia,1,LVA
+Liechtenstein,1,LIE
+Cuba,1,CUB
+Nicaragua,1,NIC
+Slovenia,3,SVN
+Dominican Republic,1,DOM
+Samoa,1,WSM
+Azerbaijan,1,AZE
+Botswana,1,BWA
+Vatican City,1,Unknown code
+Jamaica,1,JAM
+Kazakhstan,1,KAZ
+Lithuania,1,LTU
+Afghanistan,1,AFG
+Somalia,1,SOM
+Sudan,1,SDN
+Panama,1,PAN
+Uganda,1,UGA
+East Germany,1,Unknown code
+Montenegro,1,MNE
